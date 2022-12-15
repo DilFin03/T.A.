@@ -1,0 +1,14 @@
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.exe
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.deps.json
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.runtimeconfig.json
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.runtimeconfig.dev.json
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.dll
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\bin\Debug\netcoreapp3.1\Лаба 3.pdb
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.csproj.AssemblyReference.cache
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.AssemblyInfoInputs.cache
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.AssemblyInfo.cs
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.csproj.CoreCompileInputs.cache
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.dll
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.pdb
+D:\Робочий стіл\КН-21\2 курс\Теорія алгоритмів\Лаба 3\Лаба 3\obj\Debug\netcoreapp3.1\Лаба 3.genruntimeconfig.cache
